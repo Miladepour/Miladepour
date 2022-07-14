@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Milad
-- 👀 I’m interested in Softwere development
-- 🌱 I’m currently learning Web Develpment
+- 👀 I’m interested in Software development
+- 🌱 I’m currently studing software development
 - 📫 How to reach me epour.milad@gmail.com
