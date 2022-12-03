@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Milad
 - 👀 I’m Software developer
-- 🌱 I’m currently studing Full-Stack Development course
+- 🌱 I’m currently studing Full-Stack Development course @CodeYourFuture
 - 📫 How to reach me epour.milad@gmail.com
