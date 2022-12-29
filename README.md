@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Milad E-pour</h1>
 <h3 align="center">A Passionate Full-Stack Developer Based in United-Kingdom</h3>
 
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+![alt text](http://url/to/img.png](https://giphy.com/embed/qgQUggAC3Pfv687qPC)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladepour&label=Profile%20views&color=0e75b6&style=flat" alt="miladepour" /> </p>
 
