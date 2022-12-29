@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milad E-pour</h1>
 <h3 align="center">A Passionate Full-Stack Developer Based in United-Kingdom</h3>
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-
+<p align="left"> <img src="![image](https://user-images.githubusercontent.com/104828541/209922386-8fad8f53-d1ee-47ce-8637-b931a65ec300.png)" alt="miladepour" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladepour&label=Profile%20views&color=0e75b6&style=flat" alt="miladepour" /> </p>
 
